@@ -9,7 +9,7 @@ This repository contains a project focused on visualizing data from a bank's mar
 - **Visualization Tool**: Tableau Public
 
 ## Dashboard
-![alt text](image-1.png)
+![Screenshot of dashboard](./assets/BankAdvertising.png)
 
 
 
